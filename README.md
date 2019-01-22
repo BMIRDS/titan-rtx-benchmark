@@ -18,3 +18,6 @@ To evaluate this new GPU, we conducted a quick experiment to compare the perform
 
 Of note, two GPU cards were installed on two different machines and we did not consider the effect of other hardware components, such as CPUs, memory, and motherboard, on the running time.
 In the past, GPU memory had been a significant bottleneck in our research for training deep neural networks on medical images, particularly for high-resolution pathology images. Considering Titan RTX's 24 GB memory and this preliminary comparison, we expect Titan RTX will considerably boost our model development efforts and cut the training time. 
+
+#### Citation:
+Naofumi Tomita, Yvonne Y. Cheung, Saeed Hassanpour, “[Deep Neural Networks for Automatic Detection of Osteoporotic Vertebral Fractures on CT Scans](https://www.sciencedirect.com/science/article/pii/S0010482518301185)", *Computers in Biology and Medicine*, 98: 8-15, 2018.
